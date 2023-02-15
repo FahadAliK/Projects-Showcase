@@ -1,7 +1,7 @@
 # JavaScript Projects
 
 ## Project Name: Serverless Demo Project with multiple micro services.
-## Tools Used: Node.js, AWS Cloud, Serverless Framework, AWS Lambda Functions, AWS SQS, AWS SES, AWS DynamoDB, Auth0
+## Tools Used: Node.js, AWS Cloud, Serverless Framework, AWS Lambda Functions, AWS SQS, AWS SES, AWS DynamoDB, Auth0, AWS S3
 ## Git Repositories:
   >**https://github.com/FahadAliK/sls-course-auction-service**
   
