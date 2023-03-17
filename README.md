@@ -1,5 +1,3 @@
-# JavaScript Projects
-
 ## Project No.1
 ## Project Name: Serverless Demo Project with multiple micro services.
 ## Tools Used: Node.js, AWS Cloud, Serverless Framework, AWS Lambda Functions, AWS SQS, AWS SES, AWS DynamoDB, Auth0, AWS S3
