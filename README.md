@@ -19,3 +19,13 @@
   >**https://github.com/FahadAliK/react-ecommerce-backend**
 ## YouTube Demo Video:
   >**https://youtu.be/c69hRKvKGW4**
+
+## Project No.3
+## Project Name: Chat app with video calling and voice calling feature.
+## Tools Used: React.js, React Router, Material UI,Redux Toolkit, React Redux, React Hooks, Node.js, Express.js,Socket.io, Formik and Yup for form validation, MongoDB, joi for request body validation, Mongoose ORM for DB operations.
+## Git Repositories:
+  >**https://github.com/FahadAliK/discord-clone-backend**
+  
+  >**https://github.com/FahadAliK/discord-clone-backend**
+## YouTube Demo Video:
+  >**https://youtu.be/c69hRKvKGW4**
