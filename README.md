@@ -20,7 +20,7 @@
 ## YouTube Demo Video:
   >**https://youtu.be/c69hRKvKGW4**
 
-## Project No.3 (Not Completed Yet)
+## Project No.3
 ## Project Name: Chat app with video calling and voice calling feature.
 ## Tools Used: React.js, React Router, Material UI,Redux Toolkit, React Redux, React Hooks, Node.js, Express.js,Socket.io, Formik and Yup for form validation, MongoDB, joi for request body validation, Mongoose ORM for DB operations, WebRTC for audio and video calling.
 ## Git Repositories:
