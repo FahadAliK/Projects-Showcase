@@ -5,6 +5,5 @@
   >**https://github.com/FahadAliK/react-ecommerce**
   
   >**https://github.com/FahadAliK/react-ecommerce-backend**
-## YouTube Demo Video:
-  >**https://youtu.be/c69hRKvKGW4**
+
 
